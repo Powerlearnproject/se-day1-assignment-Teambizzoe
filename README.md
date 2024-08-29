@@ -43,8 +43,8 @@ Acceptance Testing: Testing the software against user requirements to ensure it 
 _Define prompt engineering and discuss its importance in interacting with AI models._
 Prompt engineering is all about crafting questions or instructions concisely and specifically to get desired search outputs.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+_Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective._
 Vague: Give me guidelines to become great.
 Prompt Engineering: What does it take to become great in what I am doing as a seasoned researcher in the agricultural field?
-
+The improved prompt clarified what would be brought back, and the AI would dive deeper into my discipline to give me something spectacular than something generic.
 
